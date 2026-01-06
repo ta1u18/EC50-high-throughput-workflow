@@ -1,6 +1,6 @@
 # EC50-high-throughput-workflow
 
-This repository contains the `EC50_processing_workflow.ipynb` which was used in the paper 'A high throughput workflow to assess biologically relevant ion transport and membrane lysis for antimicrobial discovery'.
+This repository contains the `EC50_processing_workflow.ipynb` which was used in the paper 'A high throughput workflow to assess biologically relevant ion transport and membrane lysis for antimicrobial discovery'. The workbook is in 2 sections: Processing - the interactive workflow used to process the data and Plotting - used to generate the plots shown in the ESI.
 
 ## Repository Structure 
 
